@@ -1,0 +1,5 @@
+{
+    "cmd": ["[HOME  MODIFIY]Anaconda3/envs/tensorflow_gpu/python.exe", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}

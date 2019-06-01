@@ -1,0 +1,9 @@
+{
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"KiteSublime",
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": true
+}

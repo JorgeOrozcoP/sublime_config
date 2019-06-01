@@ -1,0 +1,24 @@
+{
+    "anaconda_linter_phantoms": false,
+
+    /*https://pycodestyle.readthedocs.io/en/latest/intro.html#error-code*/
+    "pep8_ignore":
+    [
+        "E128",
+        "E201",
+        "E202",
+        "E203",
+        "E211",
+        "E231",
+        "E303",
+        "E309",
+        "W291",
+        "W391"
+    ],
+
+    "anaconda_gutter_theme": "Bright",
+
+    "anaconda_linter_mark_style": "stippled_underline",
+
+    "swallow_startup_errors": true
+}
