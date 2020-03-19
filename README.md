@@ -16,3 +16,6 @@ my sublime config files
 
 **tensorflow.sublime-build**: Build file to use with a conda environment. Modify path to match python.exe file in desired environment. Taken from @MattDMo's solution in [Stack Overflow](https://stackoverflow.com/questions/34865717/use-conda-environment-in-sublime-text-3)
 
+## Cool sublime trick: 
+
+http://www.danielmois.com/article/Sublime_Text_2_edit_multiple_selections
