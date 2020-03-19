@@ -7,7 +7,6 @@ my sublime config files
 ~/AppData/Roaming/Sublime Text 3/Packages/User
 
 
-
 ## Files
 
 **Preferences.sublime-settings**: User defined general settings for sublime.
@@ -19,3 +18,4 @@ my sublime config files
 ## Cool sublime trick: 
 
 http://www.danielmois.com/article/Sublime_Text_2_edit_multiple_selections
+https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html

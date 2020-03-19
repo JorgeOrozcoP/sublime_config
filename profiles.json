@@ -5,7 +5,7 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
 
-    "defaultProfile": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+    "defaultProfile": "{MODIFY WITH DEFAULT PROFILE GUID}",
 
     "profiles":
     [
@@ -21,7 +21,7 @@
             "historySize": 9001,
             "snapOnInput": true,
             "cursorColor": "#FFFFFF",
-            "cursorShape": "bar",
+            "cursorShape": "vintage",
             "commandline": "powershell.exe",
             "fontFace": "Courier New",
             "fontSize": 10,
@@ -34,14 +34,15 @@
             // Make changes here to the cmd.exe profile
             "guid": "{MODIFY FOR MY WON GUID!!!!!}",
             "name": "cmd",
-            "commandline": "cmd.exe",
+            //from https://winaero.com/blog/how-to-set-aliases-for-the-command-prompt-in-windows/
+            "commandline": "cmd.exe /k C:/path/to/alias.cmd",
             "hidden": false,
 
-            "colorscheme": "Solarized Dark",
+            "colorscheme": "Dracula",
             "historySize": 9001,
             "snapOnInput": true,
             "cursorColor": "#FFFFFF",
-            "cursorShape": "bar",
+            "cursorShape": "vintage",
             "fontFace": "Consolas",
             "fontSize": 10,
             "acrylicOpacity": 0.75,
@@ -59,7 +60,7 @@
             "historySize": 9001,
             "snapOnInput": true,
             "cursorColor": "#FFFFFF",
-            "cursorShape": "bar",
+            "cursorShape": "vintage",
             "commandline": "wsl.exe",
             "fontFace": "Consolas",
             "fontSize": 10,
