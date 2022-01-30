@@ -1,0 +1,8 @@
+set linenumbers
+set tabstospaces
+set guidestripe 80
+set autoindent
+set indicator
+set mouse
+set tabsize 4
+
